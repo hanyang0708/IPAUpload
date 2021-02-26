@@ -2,7 +2,16 @@
 ipa 文件上传到 appstorecontent
 
 
-# client_app
+# IPA 上传
+
+## 通过 hbuilder 线上打包出来的 ios 包为 ipa 文件，此软件方便将 ipa 包上传到 appstorecontent 
+
+## 目前仅支持 macos 系统进行安装上传
+
+## app 文件夹为打好的 dmg 包
+
+![Image text](./1614327217608.jpg)
+
 
 ## Project setup
 ```
